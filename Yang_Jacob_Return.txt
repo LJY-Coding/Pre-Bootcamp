@@ -1,0 +1,80 @@
+# Code Snippet 1
+var  | value                           Console
+-------------                      -----------------
+     |                                hello              
+     |                                Dojo
+
+
+# Code Snippet 2
+var    | value                           Console
+---------------                     -----------------
+result |  15                            hello  
+       |                               result is 15
+
+
+# Code Snippet 3
+var     | value                          Console
+-----------------                    --------------------
+result  | 18                             num is 3
+        |                                result is 18
+
+
+# Code Snippet 4
+var     | value                          Console
+-----------------                    --------------------
+   num  | 15                              15
+  result| 10                              10
+        |                                 10
+        |                                 15
+
+# Code Snippet 5
+var     | value                          Console
+-----------------                    --------------------
+   num  | 15                              15
+  result| 20                              10
+        |                                 20
+        |                                 15
+
+
+# Code Snippet 6
+var     | value                          Console
+-----------------                    --------------------
+  y     | 6, 10                          num is 3
+  result| 16                             num is 5
+        |                                result is 16
+
+
+# Code Snippet 7
+var     | value                          Console
+-----------------                    --------------------
+        |                                 5
+        |                                 8
+
+
+# Code Snippet 8
+var     | value                          Console
+-----------------                    --------------------
+        |                                 2
+        |                                 5
+        |                                 3
+        |                                 8
+
+
+# Code Snippet 9
+var     | value                          Console
+-----------------                    --------------------
+   sum  | 5, 8                            sum is 5
+  result| 13                              sum is 8
+        |                                 result is 13
+
+
+# Code Snippet 10
+var     | value                                  Console
+-----------------                           --------------------
+   sum  | 5, 6 (3), 8 (3) (5)                    sum is 5
+  result| 5+6+8=19                               sum is 3
+        |                                        sum is 6
+        |                                        sum is 3
+        |                                        sum is 5
+        |                                        sum is 8
+        |                                        result is 19
